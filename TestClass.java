@@ -10,7 +10,7 @@ public class TestClass {
       System.out.println("Keskmine hinne on " + opilane1.arvutaKeskmineHinne());
       
       /* Opetaja klassi testimine */
-      Opetaja opetaja1 = new Opetaja("Jaagup Kippar", "Haapsalu Kolledž");
+      Opetaja opetaja1 = new Opetaja("Olev Kuppar", "Haapsalu Kolledž");
       System.out.println(opetaja1);
       String[] kursused = {"IM101", "HKI5003", "IM101"};
        
